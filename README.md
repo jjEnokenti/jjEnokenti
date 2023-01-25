@@ -8,6 +8,8 @@ I have been learning python for 3 years<br>
   - [Telegram ](https://t.me/skyzizizkk)
 
 
+[![My Skills](https://skills.thijs.gg/icons?i=py,postgres,git,docker)](https://skills.thijs.gg)
+
 **I have non-commercial experience with technologies such as:**
 ```
   - Git
