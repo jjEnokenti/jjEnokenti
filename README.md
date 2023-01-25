@@ -17,5 +17,5 @@
 
 - 🌱 I’m currently learning Skypro school on "Python backend web-developer"
 - 🤔 I’m looking for a job
-- 📫 How to reach me
-  - 1. [Telegram ](https://t.me/skyzizizkk)
+- 📫 How to reach me:
+  - [Telegram ](https://t.me/skyzizizkk)
