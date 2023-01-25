@@ -11,7 +11,7 @@
   - Alembic
   - SQLAlchemy
   - Pydentic
-</hr>
+<hr>
 - 🌱 I’m currently learning Skypro school on "Python backend web-developer"
 - 🤔 I’m looking for a job
 - 📫 How to reach me:
