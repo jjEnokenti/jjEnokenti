@@ -6,12 +6,13 @@
   - FastApi
   - Postgres
   - Docker/Docker-compose
-  - Pytest
-  - Alembic
-  - SQLAlchemy
-  - Pydentic
+  - `Pytest
+  - `Alembic
+  - `SQLAlchemy`
+  - `Pydentic`
+
 
 - 🌱 I’m currently learning Skypro school on "Python backend web-developer"
 - 🤔 I’m looking for a job
 - 📫 How to reach me:
-                     - [Telegram ](https://t.me/skyzizizkk)
+                     1. [Telegram ](https://t.me/skyzizizkk)
