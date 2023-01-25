@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 #### My name is Mukhammad, i am 28
 #### I have been learning python for 3 years
 ##### I have non-commercial experience with technologies such as:
