@@ -7,7 +7,7 @@
   - FastApi
   - Postgres
   - Docker/Docker-compose
-  -- Pytest
+  - Pytest
   - Alembic
   - SQLAlchemy
   - Pydentic
