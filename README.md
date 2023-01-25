@@ -1,6 +1,5 @@
 #### Hi there 👋 my name is Mukhammad, i am 26
 #### I have been learning python for 3 years
-<hr>
 #### I have non-commercial experience with technologies such as:
   - Git
   - Flask
