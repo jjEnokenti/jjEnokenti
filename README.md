@@ -1,7 +1,7 @@
 #### Hi there 👋 my name is Mukhammad, i am 26
 #### I have been learning python for 3 years
-#### I have non-commercial experience with technologies such as:
 <hr>
+#### I have non-commercial experience with technologies such as:
   - Git
   - Flask
   - FastApi
@@ -11,7 +11,7 @@
   - Alembic
   - SQLAlchemy
   - Pydentic
-<hr>
+</hr>
 - 🌱 I’m currently learning Skypro school on "Python backend web-developer"
 - 🤔 I’m looking for a job
 - 📫 How to reach me:
