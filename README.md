@@ -2,6 +2,12 @@
 My name is Mukhammad, i am 28
 I have been learning python for 3 years<br>
 
+- 🌱 I’m currently learning Skypro school on "Python backend web-developer"
+- 🤔 I’m looking for a job
+- 📫 How to reach me:
+  - [Telegram ](https://t.me/skyzizizkk)
+
+
 **I have non-commercial experience with technologies such as:**
 ```
   - Git
@@ -20,8 +26,3 @@ I have been learning python for 3 years<br>
  <source media="(prefers-color-scheme: light)" srcset="https://funart.pro/uploads/posts/2022-08/1659809523_54-funart-pro-p-fon-iz-matritsi-krasivo-56.png">
  <img alt="" src="https://funart.pro/uploads/posts/2022-08/thumbs/1659809461_38-funart-pro-p-fon-iz-matritsi-krasivo-39.jpg">
 </picture>
-
-- 🌱 I’m currently learning Skypro school on "Python backend web-developer"
-- 🤔 I’m looking for a job
-- 📫 How to reach me:
-  - [Telegram ](https://t.me/skyzizizkk)
