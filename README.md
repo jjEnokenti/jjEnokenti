@@ -7,16 +7,16 @@ I have been learning python for 3 years<br>
 - 📫 How to reach me:
   - [Telegram ](https://t.me/skyzizizkk)
 
-
-[![My Skills](https://skills.thijs.gg/icons?i=py,postgres,git,docker)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,sqlite,git,docker,linux,stackoverflow" />
+  </a>
+</p>
 
 **I have non-commercial experience with technologies such as:**
 ```
-  - Git
-  - Flask
-  - FastApi
-  - Postgres
-  - Docker/Docker-compose
+
+  - Docker-compose
   - Pytest
   - Alembic
   - SQLAlchemy
