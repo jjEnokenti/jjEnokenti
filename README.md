@@ -16,9 +16,9 @@ I have been learning python for 3 years<br>
 ```
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rgo.ru%2Fru%2Farticle%2Fvyshe-gor-mogut-byt-tolko-gory-top-7-peshih-marshrutov-po-altayu&psig=AOvVaw1IadgbTef-Y-XOH-zY3b2h&ust=1674770539945000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKD52cvc4_wCFQAAAAAdAAAAABAJ">
- <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpibig.info%2F99076-zakat-solnca-na-more.html&psig=AOvVaw3Mlyph1MU97gAxVyLGlF3_&ust=1674770632592000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDn2Pfc4_wCFQAAAAAdAAAAABAE">
- <img alt="" src="">
+ <source media="(prefers-color-scheme: dark)" srcset="https://funart.pro/uploads/posts/2022-08/thumbs/1659809487_42-funart-pro-p-fon-iz-matritsi-krasivo-43.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://funart.pro/uploads/posts/2022-08/1659809523_54-funart-pro-p-fon-iz-matritsi-krasivo-56.png">
+ <img alt="" src="https://funart.pro/uploads/posts/2022-08/thumbs/1659809461_38-funart-pro-p-fon-iz-matritsi-krasivo-39.jpg">
 </picture>
 
 - 🌱 I’m currently learning Skypro school on "Python backend web-developer"
