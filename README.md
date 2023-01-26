@@ -26,16 +26,19 @@
 
   <br>
 
-  <h4>I have non-commercial experience with technologies such as:</h4>
+  <h4>Other technologies:</h4>
+</div>
 
   ```
-    - Docker-compose
-    - Pytest
-    - Alembic
-    - SQLAlchemy
-    - Pydentic
+  technologies = [
+      "docker_compose", 
+      "pytest", 
+      "alembic", 
+      "sqlalchemy", 
+      "pydentic",
+      "to_be_continue..."
+  ]
   ```
-</div>
 
 <div align="center">
   <h3>Github Stats</h3>
@@ -45,7 +48,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jjenokenti&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=jjenokenti&&style=flat-square" align="center"  alt="https://github.com/jjenokenti" />
 
   <hr></hr>
 
