@@ -39,6 +39,8 @@
       "to_be_continue..."
   ]
   ```
+  
+<hr></hr>
 
 <div align="center">
   <h3>Github Stats</h3>
