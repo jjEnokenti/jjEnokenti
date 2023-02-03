@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hi 👋</h3>
-  <p>My name is Mukhammad, i am 28
-  I have been learning python for 3 years</p>
+  <p>My name is Mukhammad, i am 28,
+  i have been learning python for 3 years</p>
 
 
   <hr></hr>
