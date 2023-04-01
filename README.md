@@ -35,7 +35,7 @@
       "pytest", 
       "alembic", 
       "sqlalchemy", 
-      "pydentic",
+      "pydantic",
       "to_be_continue..."
   ]
   ```
