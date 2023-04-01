@@ -6,7 +6,7 @@
 
   <hr></hr>
 
-  - 🌱 I’m currently learning Redis, MongoDB, Ngenix
+  - 🌱 I’m currently learning Redis, MongoDB, nginx
   - 🤔 I’m looking for a job
   - 📫 How to reach me:
   <a href="https://github.com/jjenokenti" target="_blank">
