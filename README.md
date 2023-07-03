@@ -1,13 +1,13 @@
 <div align="center">
   <h3>Hi 👋</h3>
   <p>My name is Mukhammad, i am 28,
-  i have been learning python for 3 years</p>
+  i have been learning python and web programming for more than 3 years</p>
 
 
   <hr></hr>
 
-  - 🌱 I’m currently learning Redis, MongoDB, nginx
-  - 🤔 I’m looking for a job
+  - 🌱 I’m currently learning nginx
+  - 🔎 I’m looking for a job
   - 📫 How to reach me:
   <a href="https://github.com/jjenokenti" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -21,7 +21,7 @@
 
   <h3>My skills</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,sqlite,git,docker,linux,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,sqlite,git,docker,linux,stackoverflow,redis,mongodb,django drf,CI/CD" />
   </a>
 
   <br>
@@ -30,14 +30,19 @@
 </div>
 
   ```
-  technologies = [
-      "docker_compose", 
+  technologies = (
+      "docker compose", 
       "pytest", 
       "alembic", 
       "sqlalchemy", 
       "pydantic",
-      "to_be_continue..."
-  ]
+      "Github Actions(CI/CD)",
+      "ssh",
+      "make",
+      "pylint",
+      "pre commit hooks",
+      "to_be_continue...",
+  )
   ```
   
 <hr></hr>
