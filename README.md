@@ -15,6 +15,9 @@
   <a href="https://t.me/skyzizizkk" target="_blank">
   <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
+  <a href="https://hh.ru/resume/f91e8636ff0c28f6550039ed1f77633777715a" target="_blank">
+  <img src=https://img.shields.io/badge/headhunterh-%2300acee.svg?&style=for-the-badge&logo=red&logoColor=red alt=hh style="margin-bottom: 5px;" />
+  </a>
 
   <hr></hr>
 
@@ -31,9 +34,14 @@
 
   ```
   technologies = (
-      "docker compose", 
-      "pytest", 
-      "alembic", 
+      "docker compose",
+      "pytest",
+      "Django-ninja",
+      "DRF",
+      "Celery",
+      "RabbitMQ",
+      "Aiogram",
+      "alembic",
       "sqlalchemy", 
       "pydantic",
       "Github Actions(CI/CD)",
