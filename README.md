@@ -1,12 +1,11 @@
 <div align="center">
   <h3>Hi 👋</h3>
-  <p>My name is Mukhammad, i am 28,
-  i have been learning python and web programming for more than 3 years</p>
+  <p>My name is Mukhammad, i am 29,
+  i have been learning python and web programming for more than 4 years</p>
 
 
   <hr></hr>
 
-  - 🌱 I’m currently learning nginx
   - 🔎 I’m looking for a job
   - 📫 How to reach me:
   <a href="https://github.com/jjenokenti" target="_blank">
@@ -38,17 +37,20 @@
       "pytest",
       "Django-ninja",
       "DRF",
+      "Flask",
       "Celery",
       "RabbitMQ",
+      "Kafka",
       "Aiogram",
       "alembic",
       "sqlalchemy", 
       "pydantic",
       "Github Actions(CI/CD)",
+      "Gitlab CI",
       "ssh",
       "make",
       "pylint",
-      "pre commit hooks",
+      "pre-commit hooks",
       "to_be_continue...",
   )
   ```
